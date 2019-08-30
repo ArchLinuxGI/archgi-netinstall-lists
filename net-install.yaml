@@ -58,7 +58,7 @@
     - unzip
     - zip
     - network-manager-applet    
-    
+    - lightdm-gtk-greeter-settings
 
 - name: "Xorg"
   description: "Xorg Groups"
@@ -206,17 +206,6 @@
   packages : 
     - deepin
     - deepin-extra
-
-- name : "Display Managers"
-  description : "Display Managers Groups"
-  hidden : false
-  selected : false
-  packages  : 
-    - lightdm-gtk-greeter-settings
-    - lxdm-gtk3
-    - lxdm
-    - gdm 
-    - sddm
 
 - name : "Web Browsers"
   description : "Some Web Browsers does not get your locales config"
