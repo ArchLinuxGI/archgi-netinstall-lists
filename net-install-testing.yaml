@@ -181,7 +181,7 @@
   
 
 - name : "Virtual Machines Utils"    
-  description : ""
+  description : "Virtual Machines Utils"
   hidden: false
   selected : false
   critical : false
@@ -193,7 +193,7 @@
 
 
 - name : "Terminals"    
-  description : ""
+  description : "Terminals"
   hidden: false
   selected : false
   critical : false
@@ -206,7 +206,7 @@
     - tilda
 
 - name : "Graphical Editors"
-  description : ""
+  description : "Graphical Editors"
   hidden : false
   selected : false
   critical : false
@@ -218,7 +218,7 @@
     - mousepad 
 
 - name : "System Utils"
-  description : ""
+  description : "System Utils"
   hidden : false
   selected : false
   critical : false 
