@@ -224,6 +224,7 @@
   selected : false
   packages : 
     - opera
+    - opera-ffmpeg-codecs
     - firefox
     - chromium
     - midori
